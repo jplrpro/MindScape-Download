@@ -6,11 +6,11 @@ MindScape est une application de bureau développée en Python, destinée à Ubu
 
 ## Fonctionnalités
 
-- Création et visualisation de graphes relationnels et chronologiques
+- Réalisation de graphes relationnels et chronologiques
 - Gestion des entités et des liaisons
 - Ajout de Post-it
 - Organisation automatique des graphes
-- Exportation et impression PDF
+- Exportation pdf et impression A3 A4
 
 ## Plateformes
 
