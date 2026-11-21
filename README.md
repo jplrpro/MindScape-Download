@@ -2,7 +2,7 @@
 
 ** Logiciel de création de graphes relationnels et chronologiques **
 
-MindScape est une application de bureau développée en Python, destinée à Ubuntu et Windows.
+MindScape est une application de bureau développée en Python, destinée à Ubuntu et Windows, aussi exécutable depuis une clé USB.
 
 ## Fonctionnalités
 
