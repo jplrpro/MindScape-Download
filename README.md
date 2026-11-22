@@ -4,7 +4,7 @@
 
 Mindscape est une application de bureau pour Linux (Python / GTK3) qui permet de dessiner des **graphes d'entités** (personnes, objets, lieux, idées…) reliés entre eux, et des **graphes chronologiques** pour placer ces entités sur une frise du temps.
 
-![Mindscape : un graphe chrono et un graphe d'entités dans la même vue](docs/mindscape_ex1.png)
+![Mindscape : un graphe chrono et un graphe d'entités dans la même vue](mindscape_ex1.png)
 
 ## Fonctionnalités
 
