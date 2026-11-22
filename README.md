@@ -59,16 +59,16 @@ Un fichier `.desktop` est fourni pour lancer Mindscape depuis le menu d'Ubuntu.
 
 ## Soutenir le projet
 
-Mindscape est développé sur mon temps personnel. Si l'outil vous est utile, vous pouvez soutenir son auteur : *(https://donate.stripe.com/eVq8wP8LR7SgfprdOo2sM03)*.
+Mindscape est développé sur mon temps personnel. Si l'outil vous est utile, vous pouvez soutenir son auteur : *https://donate.stripe.com/eVq8wP8LR7SgfprdOo2sM03*.
 
 ## Licence
 
-© 2026 *(votre nom)*. Tous droits réservés.
+© 2026 *Jean-pierre LE ROUX*. Tous droits réservés.
 
 Mindscape est **gratuit pour un usage personnel et non commercial**, conformément à la licence [PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0) (voir le fichier `LICENSE`).
 
-**Usage professionnel ou commercial** (entreprise, activité rémunérée, intégration dans un produit ou service) : une autorisation préalable est nécessaire. Contactez l'auteur : *(adresse e-mail)*.
+**Usage professionnel ou commercial** (entreprise, activité rémunérée, intégration dans un produit ou service) : une autorisation préalable est nécessaire. Contactez l'auteur : *jplrpro@gmail.com*.
 
 ## Contact
 
-*(à compléter)*
+*https://www.facebook.com/share/1A3CNnRYgb/?mibextid=wwXIfr*
