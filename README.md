@@ -30,15 +30,15 @@ MindScape est une application de bureau développée en Python, destinée à Ubu
 - **Édition confortable** : annuler / rétablir, copier / coller, zoom, impression.
 
 ## Installation (Ubuntu)
+après avoir téléchargé la dernière mise à jour, décompressez la et:
+-1/ copier le dossier MindScape dans votre dossier personnel sur votre PC Ubuntu
+-2/ ouvrez ce dossier et cliquez droit sur installer_mindscape.sh
+-3/ appuyez sur les touches [Windows] + [a] pour ouvrir la recherche Ubuntu
+-4/ tapez mindscape 
+-5/ faites un clique droit sur son icone et choisissez épingler
+C'est terminé Mindscape est accessible depuis votre lanceur d'applications!
 
-> À compléter et à vérifier : liste exacte des dépendances.
 
-```bash
-sudo apt install python3 python3-gi gir1.2-gtk-3.0
-git clone https://github.com/<votre-compte>/<votre-depot>.git
-cd <votre-depot>
-python3 mindscape.py
-```
 
 ### Lanceur dans le menu des applications
 
