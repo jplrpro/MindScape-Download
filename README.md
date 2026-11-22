@@ -1,8 +1,22 @@
 # Mindscape
 
-**Cartographiez vos idées, vos relations et votre calendrier dans un même outil.**
+**Logiciel de création de graphes relationnels et chronologiques**
 
-Mindscape est une application de bureau pour Linux (Python / GTK3) qui permet de dessiner des **graphes d'entités** (personnes, objets, lieux, idées…) reliés entre eux, et des **graphes chronologiques** pour placer ces entités sur une frise du temps.
+MindScape est une application de bureau développée en Python, destinée à Ubuntu et Windows, aussi exécutable depuis une clé USB.
+
+## Fonctionnalités
+
+- Réalisation de graphes relationnels et chronologiques
+- Gestion des entités et des liaisons
+- Ajout de Post-it
+- Organisation automatique des graphes
+- Exportation pdf et impression A3 A4
+
+## Plateformes
+
+- Ubuntu
+- Windows
+
 
 ![Mindscape : un graphe chrono et un graphe d'entités dans la même vue](mindscape_ex1.png)
 
