@@ -27,9 +27,11 @@ MindScape est une application de bureau développée en Python, destinée à Ubu
 - **Graphes d'entités** : créez des entités avec icône et nom, reliez-les par des liaisons nommées, ajoutez des post-it.
 - **Motivation des liaisons** : décrivez le pourquoi d'une liaison et affichez-le sous son nom (bouton *Motiv. Liaison*).
 - **Graphes chrono** : placez des événements datés et des périodes sur une échelle de temps, avec des lignes (chronogrammes) rattachées à une entité.
+- **Logigrammes** : grace a un Add-on fourni avec MindScape
 - **Plusieurs onglets** : un onglet par graphe ou par chronogramme (*+ Onglet*, *+ Onglet Chrono*).
 - **Recherche** : retrouvez une entité, un post-it ou un onglet par son nom, dans un ou plusieurs onglets.
 - **Édition confortable** : annuler / rétablir, copier / coller, zoom, impression.
+- **Developpement de vos propres Add-ons**
 
 ## Installation (Ubuntu)
 Après avoir téléchargé la dernière mise à jour, décompressez la et:
