@@ -1,6 +1,6 @@
 # Mindscape
 
-**Logiciel de création de graphes relationnels et chronologiques**
+**Logiciel de création de diagrammes relationnels et chronologiques**
 
 MindScape est une application de bureau développée en Python, destinée à Ubuntu et Windows, aussi exécutable depuis une clé USB.
 
